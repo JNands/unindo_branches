@@ -1,0 +1,1 @@
+print ('pasta com arquivo com py')
